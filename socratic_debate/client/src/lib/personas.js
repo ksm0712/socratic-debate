@@ -1,0 +1,65 @@
+export const PERSONAS = [
+    {
+        id: 'musk',
+        name: 'Elon Musk',
+        avatar: 'https://ui-avatars.com/api/?name=Elon+Musk&background=0D8ABC&color=fff&size=512',
+        style: 'Short sentences. First principles. Mars. Future.',
+        color: 'bg-blue-900',
+    },
+    {
+        id: 'gates',
+        name: 'Bill Gates',
+        avatar: 'https://ui-avatars.com/api/?name=Bill+Gates&background=4CAF50&color=fff&size=512',
+        style: 'Data. Vaccines. Climate. Optimization.',
+        color: 'bg-green-800',
+    },
+    {
+        id: 'jobs',
+        name: 'Steve Jobs',
+        avatar: 'https://ui-avatars.com/api/?name=Steve+Jobs&background=333&color=fff&size=512',
+        style: 'Minimalist. Design. Simplicity. Metaphor.',
+        color: 'bg-gray-900',
+    },
+    {
+        id: 'socrates',
+        name: 'Socrates',
+        avatar: 'https://ui-avatars.com/api/?name=Socrates&background=795548&color=fff&size=512',
+        style: 'Asking questions. Knowing nothing. Logic.',
+        color: 'bg-stone-600',
+    },
+    {
+        id: 'marx',
+        name: 'Karl Marx',
+        avatar: 'https://ui-avatars.com/api/?name=Karl+Marx&background=B71C1C&color=fff&size=512',
+        style: 'Labor. Class struggle. Power.',
+        color: 'bg-red-900',
+    },
+    {
+        id: 'nietzsche',
+        name: 'F. Nietzsche',
+        avatar: 'https://ui-avatars.com/api/?name=Friedrich+Nietzsche&background=4A148C&color=fff&size=512',
+        style: 'Will to Power. Intensity. Aphorism.',
+        color: 'bg-purple-900',
+    },
+    {
+        id: 'aurelius',
+        name: 'Marcus Aurelius',
+        avatar: 'https://ui-avatars.com/api/?name=Marcus+Aurelius&background=FF8F00&color=fff&size=512',
+        style: 'Stoic, calm, and disciplined. Duty is everything.',
+        color: 'bg-amber-800',
+    },
+    {
+        id: 'epictetus',
+        name: 'Epictetus',
+        avatar: 'https://ui-avatars.com/api/?name=Epictetus&background=00695C&color=fff&size=512',
+        style: 'Direct Stoic. Control what you can.',
+        color: 'bg-emerald-900',
+    },
+    {
+        id: 'machiavelli',
+        name: 'Machiavelli',
+        avatar: 'https://ui-avatars.com/api/?name=Machiavelli&background=1A237E&color=fff&size=512',
+        style: 'Cynical realist. Power dynamics.',
+        color: 'bg-red-950',
+    }
+];
